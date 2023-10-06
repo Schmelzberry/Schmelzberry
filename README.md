@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Jake Elsberry! I'm a currently a student at [Epicodus](https://www.epicodus.com/), a school for teaching full stack web development.
 - 👀 I’m interested in web development and preferential towards back-end information management.
-- 🌱 I’m currently learning ASP.NET, C#, MVC framework, RESTful routing
+- 🌱 I’m currently learning ASP.NET, C#, MVC framework, RESTful routing.
 - 💞️ I’m looking to collaborate on projects where I can contribute via front-end bootstrap styling in an effort to gain a deeper understanding of the library.
 - 📫 [Say Hello](https://www.linkedin.com/in/jake-elsberry/)
 
