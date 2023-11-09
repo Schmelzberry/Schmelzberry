@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Jake Elsberry.
 - 👀 I’m interested full-stack development.
-- 🌱 Experience w/ C#, Javascript, ASP.NET, and NodeJs.
+- 🌱 Experience w/ C#, Javascript, ASP.NET, and Node.js.
 - 💞️ I’m looking to collaborate on open source projects where I can use my C# and Javascript skills.
 - 📫 [LinkedIn](https://www.linkedin.com/in/jake-elsberry/)
 
