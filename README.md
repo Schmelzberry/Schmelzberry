@@ -1,4 +1,5 @@
-<h1 align="center">Hey there 👋, it's Jake Elsberry</h1>
+<h1 align="center">Hey there 👋, my name is Jake Elsberry</h1>
+
 - 🔭 I’m currently working on [Tattoo Appointment Scheduler](https://github.com/Schmelzberry/Capstone.git)
 
 - 🌱 I’m currently learning about **Big O,React Native, Python, web hosting**
