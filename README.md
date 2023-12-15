@@ -1,12 +1,12 @@
 <h1 align="center">Hey there 👋, my name is Jake Elsberry</h1>
 
-- 🔭 I’m currently working on [Tattoo Appointment Scheduler](https://github.com/Schmelzberry/Capstone.git)
+- 🔨 I’m currently building a React application for [Scheduling Tattoo Appointments](https://github.com/Schmelzberry/Capstone.git)
 
-- 🌱 I’m currently learning about **Big O,React Native, Python, web hosting**
+- 📚 I’m learning about **Big O Notation, React Native, and Python**
 
-- 👯 Looking to collaborate on **MERN stack projects as I begin learning MongoDb**
+- 🖥️ Looking to collaborate on **MERN stack projects as I prepare to use MongoDb**
 
-- 👨‍💻 All of my projects are available on my  [portfolio](https://schmelzberry.github.io/portfolio-landing/ )
+- 📂 All of my projects are available on my  [portfolio](https://schmelzberry.github.io/portfolio-landing/ )
  site.
 
 <h3 align="left">Connect with me:</h3>
