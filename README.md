@@ -6,8 +6,7 @@
 
 - 🖥️ Looking to collaborate on **MERN stack projects as I prepare to use MongoDb**
 
-- 📂 All of my projects are available on my  [portfolio](https://schmelzberry.github.io/portfolio-landing/ )
- site.
+- 📂 All of my projects are available on my  [portfolio](https://schmelzberry.github.io/portfolio-landing/ ).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
