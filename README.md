@@ -4,9 +4,7 @@
 
 - 📚 I’m learning about **Big O Notation, React Native, and Python**
 
-- 🖥️ Looking to collaborate on **MERN stack projects as I prepare to use MongoDb**
-
-- 📂 All of my projects are available on my  [portfolio](https://schmelzberry.github.io/portfolio-landing/ ).
+- 📂 A few of my projects are in my [portfolio](https://schmelzberry.github.io/Portfolio-v2).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
