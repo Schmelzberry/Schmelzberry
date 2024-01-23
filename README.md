@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, my name is Jake Elsberry</h1>
+<h1 align="center">Jake Elsberry</h1>
 
 - 🔨 I’m currently building a React application for [Scheduling Tattoo Appointments](https://github.com/Schmelzberry/Capstone.git)
 
