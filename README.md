@@ -2,7 +2,7 @@
 
 - 🔨 I’m currently building a React application for [Scheduling Tattoo Appointments](https://github.com/Schmelzberry/Capstone.git)
 
-- 📚 I’m learning about **Big O Notation, React Native, and Python**
+- 📚 I’m learning about **Big O Notation and PHP**
 
 - 📂 A few of my projects are in my [portfolio](https://schmelzberry.github.io/Portfolio-v2).
 
