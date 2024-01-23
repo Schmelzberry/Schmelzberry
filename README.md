@@ -1,6 +1,6 @@
 <h1 align="center">Jake Elsberry</h1>
 
-- 🔨 I’m currently building a React/PHP application to [build a database from scratch](https://github.com/Schmelzberry/Capstone.git)
+- 🔨 I’m currently building a React/PHP application to [build a database from scratch](https://github.com/Schmelzberry/cms)
 
 - 📚 I’m learning about **Big O Notation and PHP**
 
